@@ -1,4 +1,4 @@
-MyLexer/
+```MyLexer/
 ├── .vscode/
 │   ├── c_cpp_properties.json  # VS Code C/C++ 扩展的智能感知配置
 │   ├── launch.json            # VS Code 的调试配置
@@ -13,3 +13,4 @@ MyLexer/
 │   └── example.mylang       # 用于测试词法分析器的示例源代码文件
 ├── CMakeLists.txt           # CMake 构建系统配置文件 (推荐使用)
 └── README.md                # 项目说明文件
+```
